@@ -8,11 +8,10 @@
 
     <jp.ac.shohokus19b702.graphicssample.TapView
         android:id="@+id/view1"
-        android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_width="602dp"
+        android:layout_height="968dp"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp"
-        />
+        tools:layout_editor_absoluteY="0dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
