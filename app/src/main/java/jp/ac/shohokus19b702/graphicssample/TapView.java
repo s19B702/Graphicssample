@@ -29,6 +29,7 @@ package jp.ac.shohokus19b702.graphicssample;
          mLeft = 100;
          mW = mBmp.getWidth();
          mH = mBmp.getHeight();
+
          }
 
          /**
